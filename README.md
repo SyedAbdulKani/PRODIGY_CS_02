@@ -1,6 +1,6 @@
 # PRODIGY_CS_02
 
-# Simple Image Encryption Tool
+# Image Encryption and Decryption
 
 This project provides a simple tool for image encryption and decryption using basic pixel manipulation. The encryption algorithm inverts the pixel values of the image, and the decryption algorithm reverses this operation.
 
