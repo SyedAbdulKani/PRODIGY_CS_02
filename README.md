@@ -10,10 +10,9 @@ This project provides a simple tool for image encryption and decryption using ba
 - Pillow (PIL Fork)
 - NumPy
 
-  Installation
+Installation
 Clone the repository:
-
-git clone 
+git clone https://github.com/SyedAbdulKani/PRODIGY_CS_02
 
 You can install the required libraries using pip:
 pip install pillow numpy
